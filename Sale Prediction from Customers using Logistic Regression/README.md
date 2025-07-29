@@ -3,6 +3,7 @@
 This project builds a **binary classification model** to predict whether a new customer will **purchase a product** based on their **Age** and **Estimated Salary**. It demonstrates the application of **Logistic Regression** on simple demographic features to make marketing-based predictions.
 
 
+
 ## 🗂️ Index
 
 📌 [Project Overview](#project-overview)
