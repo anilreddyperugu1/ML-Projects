@@ -79,9 +79,7 @@ Scikit-learn (LogisticRegression, StandardScaler, train_test_split)
     
   **📌 Evaluated using:**
    * Confusion Matrix
-   * 
    * Precision, Recall, F1-score
-   * 
 These metrics helped assess the model’s ability to correctly classify customers who are likely to purchase the product.
 
 ## 💡 Key Takeaways
