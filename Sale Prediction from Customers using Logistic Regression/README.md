@@ -1,6 +1,6 @@
 # 🛍️ Customer Purchase Prediction using Logistic Regression
 
-This project builds a binary classification model to predict whether a new customer will purchase a product based on their Age and Estimated Salary. It demonstrates the application of Logistic Regression on simple demographic features to make marketing-based predictions.
+This project builds a **binary classification model** to predict whether a new customer will **purchase a product** based on their **Age** and **Estimated Salary**. It demonstrates the application of **Logistic Regression** on simple demographic features to make marketing-based predictions.
 
 
 ## 🗂️ Index
@@ -80,7 +80,7 @@ Scikit-learn (LogisticRegression, StandardScaler, train_test_split)
   **📌 Evaluated using:**
    * Confusion Matrix
    * Precision, Recall, F1-score
-   * 
+   * Manual Evaluation
 These metrics helped assess the model’s ability to correctly classify customers who are likely to purchase the product.
 
 ## 💡 Key Takeaways
