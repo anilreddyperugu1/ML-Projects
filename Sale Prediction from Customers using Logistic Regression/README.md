@@ -80,12 +80,13 @@ Scikit-learn (LogisticRegression, StandardScaler, train_test_split)
   **📌 Evaluated using:**
    * Confusion Matrix
    * Precision, Recall, F1-score
+   * 
 These metrics helped assess the model’s ability to correctly classify customers who are likely to purchase the product.
 
 ## 💡 Key Takeaways
 
 * Logistic Regression works well for linearly separable data.
-* 
+  
 * Feature scaling is essential for consistent model performance.
-* 
+  
 * Even with just 2 features (Age & Salary), meaningful predictions can be achieved.
