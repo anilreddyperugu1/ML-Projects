@@ -40,10 +40,15 @@ A Logistic Regression model is trained to classify customers into purchaser (1) 
 ---
 
 ## 🐍 Libraries used:
+
 Python
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Scikit-learn (LogisticRegression, StandardScaler, train_test_split)
 
 ---
@@ -71,13 +76,18 @@ Scikit-learn (LogisticRegression, StandardScaler, train_test_split)
 
 ## **📊 Results & Evaluation**
   * ✅ Achieved an accuracy of 82.5% on the test set.
-  * 
+    
   **📌 Evaluated using:**
    * Confusion Matrix
+   * 
    * Precision, Recall, F1-score
+   * 
 These metrics helped assess the model’s ability to correctly classify customers who are likely to purchase the product.
 
 ## 💡 Key Takeaways
+
 * Logistic Regression works well for linearly separable data.
+* 
 * Feature scaling is essential for consistent model performance.
+* 
 * Even with just 2 features (Age & Salary), meaningful predictions can be achieved.
