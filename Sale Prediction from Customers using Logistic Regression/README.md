@@ -2,7 +2,6 @@
 
 This project builds a binary classification model to predict whether a new customer will purchase a product based on their Age and Estimated Salary. It demonstrates the application of Logistic Regression on simple demographic features to make marketing-based predictions.
 
----
 
 ## 🗂️ Index
 📌 Project Overview
@@ -31,8 +30,11 @@ A Logistic Regression model is trained to classify customers into purchaser (1) 
 
 ## 🚀 Key Features & Technologies Used
 🔢 Binary classification using Logistic Regression
+
 ⚙️ Data scaling using StandardScaler
+
 📊 Model evaluation using Accuracy, Precision, Recall, and F1-score
+
 📈 Data visualization in both 2D and 3D
 
 ---
