@@ -17,6 +17,7 @@ This project builds a binary classification model to predict whether a new custo
 🔧 Future Improvements
 
 
+
 ## 📌 Project Overview
 
 This project aims to predict whether a customer will make a purchase or not based on two input features:
