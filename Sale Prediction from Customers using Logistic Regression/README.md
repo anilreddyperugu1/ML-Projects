@@ -5,10 +5,15 @@ This project builds a binary classification model to predict whether a new custo
 
 ## 🗂️ Index
 📌 Project Overview
+
 🚀 Key Features & Technologies Used
+
 🧠 Modeling Workflow
+
 📊 Results & Evaluation
+
 💡 Key Takeaways
+
 🔧 Future Improvements
 
 
