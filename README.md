@@ -14,4 +14,5 @@ Feel free to explore, clone, and use the code and datasets for your own learning
 **MACHINE LEARNING:**
 
 PROJECT1. Customer sale prediction from Age and Salary using Logistic Regression.
+
 PROJECT2. Salary Estimation using K-Nearest Neighbour.
