@@ -4,6 +4,7 @@ This project builds a **binary classification model** to predict whether a new c
 
 
 ## 🗂️ Index
+
 📌 [Project Overview](#project-overview)
 
 🚀 [Key Features & Technologies Used](#key-features--technologies-used)
@@ -27,6 +28,7 @@ A Logistic Regression model is trained to classify customers into purchaser (1) 
 ---
 
 ## 🚀 Key Features & Technologies Used
+
 🔢 Binary classification using Logistic Regression
 
 ⚙️ Data scaling using StandardScaler
@@ -39,40 +41,42 @@ A Logistic Regression model is trained to classify customers into purchaser (1) 
 
 ## 🐍 Libraries used:
 
-Python
+* Python
 
-Pandas
+* Pandas
 
-NumPy
+* NumPy
 
-Matplotlib
+* Matplotlib
 
-Scikit-learn (LogisticRegression, StandardScaler, train_test_split)
+* Scikit-learn (LogisticRegression, StandardScaler, train_test_split)
 
 ---
 
 ## 🧠 Modeling Workflow
-1. **Data Preprocessing**
+
+**1. Data Preprocessing**
   * Checked for missing values
   * Scaled features using StandardScaler
 
-3. **Splitting Data**
+**2. Splitting Data**
   * Used train_test_split() to divide the data into training and test sets
 
-4. **Model Training**
+**3. Model Training**
   * Trained a LogisticRegression model using the training data
 
-5. **Prediction & Evaluation**
+**4. Prediction & Evaluation**
   * Made predictions on the test set
   * Evaluated using confusion matrix, accuracy, precision, recall, and F1-score
 
-6. **Visualization**
+**5. Visualization**
   * 2D plots for decision boundary
   * 3D scatter plot using Age, Salary, and Status
 
 ---
 
 ## **📊 Results & Evaluation**
+
   * ✅ Achieved an accuracy of 82.5% on the test set.
     
   **📌 Evaluated using:**
@@ -80,6 +84,8 @@ Scikit-learn (LogisticRegression, StandardScaler, train_test_split)
    * Precision, Recall, F1-score
    * Manual Evaluation
 These metrics helped assess the model’s ability to correctly classify customers who are likely to purchase the product.
+
+---
 
 ## 💡 Key Takeaways
 
