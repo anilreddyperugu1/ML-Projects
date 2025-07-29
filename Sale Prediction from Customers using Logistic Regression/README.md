@@ -6,15 +6,13 @@ This project builds a **binary classification model** to predict whether a new c
 ## 🗂️ Index
 📌 [Project Overview](#project-overview)
 
-🚀 Key Features & Technologies Used
+🚀 [Key Features & Technologies Used](#key-features--technologies-used)
 
-🧠 Modeling Workflow
+🧠 [Modeling Workflow](#modeling-workflow)  
 
-📊 Results & Evaluation
+📊 [Results & Evaluation](#results--evaluation)
 
-💡 Key Takeaways
-
-🔧 Future Improvements
+💡 [Key Takeaways](#key-takeaways)
 
 ---
 
