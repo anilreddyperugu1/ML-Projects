@@ -4,7 +4,7 @@ This project builds a **binary classification model** to predict whether a new c
 
 
 ## 🗂️ Index
-📌 Project Overview
+📌 [Project Overview](#project-overview)
 
 🚀 Key Features & Technologies Used
 
