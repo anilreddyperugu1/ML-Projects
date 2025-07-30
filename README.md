@@ -12,4 +12,7 @@ This repo contains a collection of projects covering the fundamentals of **Machi
 Feel free to explore, clone, and use the code and datasets for your own learning journey!
 
 **MACHINE LEARNING:**
+
 PROJECT1. Customer sale prediction from Age and Salary using Logistic Regression.
+
+PROJECT2. Salary Estimation using K-Nearest Neighbour.
