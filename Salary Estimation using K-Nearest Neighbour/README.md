@@ -1,8 +1,13 @@
 # 🧠 Salary Estimation using K-Nearest Neighbors (KNN)
 
+## 📌 Project Overview
+
+This project demonstrates a **classification task** using the **K-Nearest Neighbors (KNN)** algorithm. The goal is to estimate whether a person earns **more than $50K or less than $50K per year** based on specific personal and financial features.
+
+---
+
 ## 📚 Index
 
-- [📌 Project Overview](#-project-overview)
 - [📊 Problem Statement](#-problem-statement)
 - [🧰 Tech Stack](#-tech-stack)
 - [📦 Libraries Used](#-libraries-used)
@@ -10,12 +15,6 @@
 - [🧼 Data Preprocessing](#-data-preprocessing)
 - [🧠 Model Details](#-model-details)
 - [📈 Results](#-results)
-
----
-
-## 📌 Project Overview
-
-This project demonstrates a **classification task** using the **K-Nearest Neighbors (KNN)** algorithm. The goal is to estimate whether a person earns **more than $50K or less than $50K per year** based on specific personal and financial features.
 
 ---
 
@@ -41,20 +40,21 @@ The objective is to predict the **Income Category**:
   - `numpy`
   - `matplotlib`, `seaborn`
   - `scikit-learn`
+  - 'Pre processing'
 
 ---
 
 ## 📦 Libraries Used
 
-```python
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import LabelEncoder, StandardScaler
+from imblearn.over_sampling import SMOTE
+from sklearn.preprocessing import MinMaxScaler
 from sklearn.neighbors import KNeighborsClassifier
-from sklearn.metrics import classification_report, confusion_matrix
+from sklearn.metrics import accuracy_score, confusion_matrix, classification_report, ConfusionMatrixDisplay
 
 ---
 
@@ -72,9 +72,11 @@ from sklearn.metrics import classification_report, confusion_matrix
 
 ## 🧼 Data Preprocessing
 
-- Label encoding or one-hot encoding applied to categorical features
+- Label encoding or applied to categorical feature(Target).
 - Normalization or feature scaling to make KNN distance-based computation fair
 - Splitting dataset into training and test sets
+- U*nder sampled the majority data and over sampled the minority data.
+- Applied smote to balance the dataset
 
 ---
 
@@ -95,8 +97,6 @@ from sklearn.metrics import classification_report, confusion_matrix
 
 - Final model tested on unseen data
 - Achieved:
-  - **Accuracy**: XX%
-  - **F1-Score**: XX%
+  - **Accuracy**: 75%
+  - **F1-Score**: 74%
 - Model showed balanced performance across both income classes
-
----
