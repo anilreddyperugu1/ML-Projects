@@ -71,7 +71,7 @@ from sklearn.metrics import accuracy_score, confusion_matrix, classification_rep
 | Feature        | Description                            |
 |----------------|----------------------------------------|
 | `age`          | Age of the individual                  |
-| `education`    | Educational attainment (categorical)   |
+| `education`    | Educational attainment    |
 | `capital_gain` | Capital gains from investment income   |
 | `hours_per_week` | Average working hours per week      |
 | `income`       | Target label (`<=50K` or `>50K`)        |
