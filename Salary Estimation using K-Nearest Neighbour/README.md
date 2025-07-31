@@ -40,20 +40,28 @@ The objective is to predict the **Income Category**:
   - `numpy`
   - `matplotlib`, `seaborn`
   - `scikit-learn`
-  - 'Pre processing'
+  - 'pre-processing'
 
 ---
 
 ## 📦 Libraries Used
 
 import pandas as pd
+
 import numpy as np
+
 import matplotlib.pyplot as plt
+
 import seaborn as sns
+
 from sklearn.model_selection import train_test_split
+
 from imblearn.over_sampling import SMOTE
+
 from sklearn.preprocessing import MinMaxScaler
+
 from sklearn.neighbors import KNeighborsClassifier
+
 from sklearn.metrics import accuracy_score, confusion_matrix, classification_report, ConfusionMatrixDisplay
 
 ---
@@ -85,7 +93,7 @@ from sklearn.metrics import accuracy_score, confusion_matrix, classification_rep
 - **Algorithm**: K-Nearest Neighbors (KNN)
 - **Hyperparameters Tuned**:
   - Number of neighbors (`k`)
-  - Distance metric (default: Euclidean)
+  - Distance metric (Euclidean)
 - **Evaluation Metrics**:
   - Accuracy
   - Precision, Recall, F1-Score
