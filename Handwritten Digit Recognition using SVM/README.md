@@ -41,12 +41,15 @@ To accurately classify handwritten digits (0–9) based on their pixel intensity
 - **Support Vector Machine (SVM)** 📏  
   A supervised learning algorithm used for classification, especially effective in high-dimensional spaces.
 
-- **RBF Kernel** 🌐  
-  A non-linear kernel that maps data into a higher-dimensional space to separate classes more effectively.
+- **Kernel Trick** 🧠  
+  Transforms data into higher dimensions where it becomes linearly separable.
 
 - **Confusion Matrix** 🔀  
   A performance metric showing correct and incorrect predictions by the classifier.
 
+- **Hyperparameter Tuning** 🎛  
+  Adjusting `C`, `gamma`, and kernel type to optimize accuracy.
+  
 ---
 
 ## 🧰 Libraries Used
@@ -83,6 +86,20 @@ from sklearn.metrics import accuracy_score, classification_report, confusion_mat
   🧮 Classification Report (Precision, Recall, F1-score, Accuracy)
   
   📈 Accuracy Achieved: 90%🎯
+
+---
+
+🧪 Model Comparison
+We evaluated multiple SVM models using different kernels and hyperparameters to identify the most accurate configuration.
+
+Model	Kernel	C	Gamma	Accuracy
+Model 1	RBF	1.0	‘scale’	✅ 0.98
+Model 2	Linear	0.1	–	✅ 0.98
+Model 3	Linear	1.0	‘scale’	0.98
+Model 4	RBF	1.0	0.01	0.75
+Model 5	RBF	0.01 0.01	0.75
+
+📌 Note: Best results were observed with the RBF kernel using C=1.0, gamma='scale'.
 
 ---
 
