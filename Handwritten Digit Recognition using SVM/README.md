@@ -1,4 +1,4 @@
-# 🔢 Handwritten Digits Classification using SVM
+# 🔢 Handwritten Digits Recognition using SVM
 
 Welcome to the Digit Recognition project! 🧠 This project leverages the popular `load_digits()` dataset from `scikit-learn` to classify handwritten digits (0–9) using a Support Vector Machine with an RBF kernel. Let's dive in! 🚀
 
