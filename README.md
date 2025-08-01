@@ -22,3 +22,14 @@ Feel free to explore, clone, and use the code and datasets for your own learning
 **PROJECT2.** Salary Estimation using K-Nearest Neighbour.
 
 **PROJECT3.** Handwritten digits Recognition using SVM.SVC
+
+---
+
+## 📇 Author
+
+**Anil Reddy Perugu**
+
+📧 Email: peruguanilreddy6@gmail.com
+
+📍 Feel free to reach out for queries, suggestions, or collaboration!
+
