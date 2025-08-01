@@ -1,4 +1,4 @@
-# 🔢 Handwritten Digits Classification using SVM (RBF Kernel)
+# 🔢 Handwritten Digits Classification using SVM
 
 Welcome to the Digit Recognition project! 🧠 This project leverages the popular `load_digits()` dataset from `scikit-learn` to classify handwritten digits (0–9) using a Support Vector Machine with an RBF kernel. Let's dive in! 🚀
 
@@ -83,6 +83,7 @@ from sklearn.metrics import accuracy_score, classification_report, confusion_mat
   🧮 Classification Report (Precision, Recall, F1-score, Accuracy)
   
   📈 Accuracy Achieved: 90%🎯
+
 ---
 
 ## 🧠 Key Takeaways
@@ -94,4 +95,5 @@ from sklearn.metrics import accuracy_score, classification_report, confusion_mat
 🎯 High accuracy (~98%) was achieved even with only 20% training data, showing the power of SVM.
 
 🧪 Confusion matrix is a great way to interpret model performance on multi-class problems.
+
 
