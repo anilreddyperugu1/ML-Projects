@@ -10,8 +10,9 @@ Welcome to the Digit Recognition project! 🧠 This project leverages the popula
 2. [❓ Problem Statement](#-problem-statement)  
 3. [🔍 Key Features & Terminologies](#-key-features--terminologies)  
 4. [🧰 Libraries Used](#-libraries-used)  
-5. [📈 Results & Evaluation](#-results--evaluation)  
-6. [🧠 Key Takeaways](#-key-takeaways)
+5. [📈 Results & Evaluation](#-results--evaluation)
+6. [🧪 Model Comparison](#-model-comparison)
+7. [🧠 Key Takeaways](#-key-takeaways)
 
 ---
 
@@ -85,7 +86,7 @@ from sklearn.metrics import accuracy_score, classification_report, confusion_mat
 
   🧮 Classification Report (Precision, Recall, F1-score, Accuracy)
   
-  📈 Accuracy Achieved: 90%🎯
+  📈 Accuracy Achieved: 98%🎯
 
 ---
 
@@ -93,17 +94,13 @@ from sklearn.metrics import accuracy_score, classification_report, confusion_mat
 
 We evaluated multiple SVM models using different kernels and hyperparameters to identify the most accurate configuration.
 
-Model	Kernel	C	Gamma	Accuracy
-
-Model 1	RBF	1.0	‘scale’	✅ 0.98
-
-Model 2	Linear	0.1	–	✅ 0.98
-
-Model 3	Linear	1.0	‘scale’	0.98
-
-Model 4	RBF	1.0	0.01	0.75
-
-Model 5	RBF	0.01 0.01	0.75
+| Model   | Kernel       | C        | Gamma     | Accuracy   |
+| ------- | ------------ | -------- | --------- | ---------- |
+| Model 1 | **RBF**      | 1.0      | ‘scale’   | ✅ **0.98** |
+| Model 2 | Linear       | 1.0      | –         | ✅ **0.98** |
+| Model 3 | Linear       | 1.0      | ‘scale’   | ✅ **0.98** |
+| Model 4 | RBF          | **1.0**  | **0.01**  | 0.75       |
+| Model 5 | RBF          | **0.01** | **0.01**  | 0.75       |
 
 📌 Note: Best results were observed with the RBF kernel using C=1.0, gamma='scale'.
 
@@ -115,8 +112,9 @@ Model 5	RBF	0.01 0.01	0.75
 
 🖼 The dataset is clean, balanced, and small — great for beginners to experiment with ML models.
 
-🎯 High accuracy (~98%) was achieved even with only 20% training data, showing the power of SVM.
+🎯 High accuracy (~98%) was achieved even with only 80% training data, showing the power of SVM.
 
 🧪 Confusion matrix is a great way to interpret model performance on multi-class problems.
+
 
 
