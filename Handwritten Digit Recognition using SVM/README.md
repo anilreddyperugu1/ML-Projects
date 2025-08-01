@@ -72,7 +72,7 @@ from sklearn.metrics import accuracy_score, classification_report, confusion_mat
 ---
 
 ## 📈 Results & Evaluation
-**Train-Test Split:** 20% data used for training, 80% for testing
+**Train-Test Split:** 80% data used for training, 20% for testing
 
 **Model Used:** SVM with RBF kernel
 
