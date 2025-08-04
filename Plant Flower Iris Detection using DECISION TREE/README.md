@@ -1,5 +1,6 @@
 # 🌸 Iris Flower Classification
 
+This project demonstrates a classification task using the Decision tree algorithm. The goal is to classify a flower 🌸 into one of the three known species (Setosa, Versicolor, Virginica). Let's dive in 🚀
 
 ---
 
@@ -82,8 +83,9 @@ Given the measurements of flower petals and sepals, classify the Iris flower int
 
 ## 👨‍💻 Author
 
-- **Name**: Reddy Edits  
-- **Email**: [your-email@example.com]  
+- **Name**: Anil Reddy  
+- **Email**: [peruguanilreddy6@gmail.com]  
 - 💬 Feel free to reach out for suggestions or collaboration!
 
 ---
+
