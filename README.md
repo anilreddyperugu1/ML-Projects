@@ -23,6 +23,10 @@ Feel free to explore, clone, and use the code and datasets for your own learning
 
 **PROJECT3.** Handwritten digits Recognition using SVM.SVC
 
+**PROJECT4.** Titanic Survival Prediction using Naive Bayes.
+
+**PROJECT4.** Plant Flower Iris Detection using Decision Tree
+
 ---
 
 ## 📇 Author
