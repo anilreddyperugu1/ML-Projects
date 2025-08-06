@@ -10,7 +10,7 @@ This repo contains a collection of projects covering the fundamentals of **Machi
 
 * **Machine Learning:** From linear regression to complex classification models. 🧠
 * **Deep Learning:** Fun projects with neural networks, including image recognition and more. 🚀
-
+  
 Feel free to explore, clone, and use the code and datasets for your own learning journey!
 
 ---
@@ -27,11 +27,13 @@ Feel free to explore, clone, and use the code and datasets for your own learning
 
 **PROJECT5.** Plant Flower Iris Detection using Decision Tree
 
+**PROJECT6.** Digit Recognition using Random Forest
+
 ---
 
 ## 📇 Author
 
-**Anil Reddy Perugu**
+**Anil Reddy Perugu💝**
 
 📧 Email: peruguanilreddy6@gmail.com
 
