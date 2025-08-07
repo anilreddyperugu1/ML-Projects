@@ -29,6 +29,8 @@ Feel free to explore, clone, and use the code and datasets for your own learning
 
 **PROJECT6.** Digit Recognition using Random Forest
 
+**PROJECT7.** Breast Cancer detection using Various ML Algorithms
+
 ---
 
 ## 📇 Author
