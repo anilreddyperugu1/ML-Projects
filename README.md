@@ -31,6 +31,10 @@ Feel free to explore, clone, and use the code and datasets for your own learning
 
 **PROJECT7.** Breast Cancer detection using Various ML Algorithms
 
+**PROJECT8.** Exam Marks Prediction using LINEAR REGRESSION
+
+**PROJECT9.** Salary Prediction using POLYNOMIAL REGRESSION
+
 ---
 
 ## 📇 Author
