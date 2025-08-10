@@ -21,19 +21,21 @@ Feel free to explore, clone, and use the code and datasets for your own learning
 
 **PROJECT2.** Salary Estimation using K-Nearest Neighbour.
 
-**PROJECT3.** Handwritten digits Recognition using SVM.SVC
+**PROJECT3.** Handwritten digits Recognition using SVM.SVC.
 
 **PROJECT4.** Titanic Survival Prediction using Naive Bayes.
 
-**PROJECT5.** Plant Flower Iris Detection using Decision Tree
+**PROJECT5.** Plant Flower Iris Detection using Decision Tree.
 
-**PROJECT6.** Digit Recognition using Random Forest
+**PROJECT6.** Digit Recognition using Random Forest.
 
-**PROJECT7.** Breast Cancer detection using Various ML Algorithms
+**PROJECT7.** Breast Cancer detection using Various ML Algorithms.
 
-**PROJECT8.** Exam Marks Prediction using LINEAR REGRESSION
+**PROJECT8.** Exam Marks Prediction using Linear Regression.
 
-**PROJECT9.** Salary Prediction using POLYNOMIAL REGRESSION
+**PROJECT9.** House Price Prediction using Linear Regression.
+
+**PROJECT10.** Salary Prediction using Polynomial Regression.
 
 ---
 
