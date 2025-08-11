@@ -41,6 +41,8 @@ Feel free to explore, clone, and use the code and datasets for your own learning
 
 **PROJECT12.** Height Prediction from Age using Decision Tree Regressor
 
+**PROJECT13.** Car Price Prediction using Random Forest Regressor
+
 ---
 
 ## 📇 Author
