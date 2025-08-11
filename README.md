@@ -37,6 +37,10 @@ Feel free to explore, clone, and use the code and datasets for your own learning
 
 **PROJECT10.** Salary Prediction using Polynomial Regression.
 
+**PROJECT11.** Stock Price Prediction using SVR
+
+**PROJECT12.** Height Prediction from Age using Decision Tree Regressor
+
 ---
 
 ## 📇 Author
@@ -45,5 +49,5 @@ Feel free to explore, clone, and use the code and datasets for your own learning
 
 📧 Email: peruguanilreddy6@gmail.com
 
-📍 Feel free to reach out for queries, suggestions, or collaboration!
+📍 Feel free to reach out for queries, suggestions, or collaborations!
 
