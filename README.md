@@ -43,6 +43,8 @@ Feel free to explore, clone, and use the code and datasets for your own learning
 
 **PROJECT13.** Car Price Prediction using Random Forest Regressor
 
+**PROJECT14.** CCPP Energy Output Prediction using Multiple Regression Algorithms
+
 ---
 
 ## 📇 Author
