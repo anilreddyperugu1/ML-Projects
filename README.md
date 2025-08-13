@@ -47,6 +47,8 @@ Feel free to explore, clone, and use the code and datasets for your own learning
 
 **PROJECT15.** Income Spent Clustering using K-Means
 
+**PROJECT16.** Income Spent Clustering using Hierarchial Clustering(diff dataset)
+
 ---
 
 ## 📇 Author
