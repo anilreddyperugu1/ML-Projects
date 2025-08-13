@@ -45,6 +45,8 @@ Feel free to explore, clone, and use the code and datasets for your own learning
 
 **PROJECT14.** CCPP Energy Output Prediction using Multiple Regression Algorithms
 
+**PROJECT15.** Income Spent Clustering using K-Means
+
 ---
 
 ## 📇 Author
