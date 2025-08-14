@@ -1,4 +1,4 @@
-# 🌸 Clustering the Iris Dataset using PCA & K-Means 🌿  
+# 🌸 Clustering the Iris Dataset using PCA & Logistic Regression 🌿  
 
 A 🌼 machine learning project that applies **Principal Component Analysis (PCA)** for dimensionality reduction and then uses **Logistic Regression** for classification.  This project demonstrates how PCA can simplify high-dimensional data while preserving its essence 💡 for effective classification. Let's dive in 🚀
 
@@ -77,3 +77,4 @@ Anil Reddy Perugu💝
 📧 Email: peruguanilreddy6@gmail.com
 
 📍 Feel free to reach out for queries, suggestions, or collaborations!
+
