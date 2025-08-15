@@ -49,6 +49,10 @@ Feel free to explore, clone, and use the code and datasets for your own learning
 
 **PROJECT16.** Income Spent Clustering using Hierarchial Clustering(diff dataset)
 
+**PROJECT17.** Clustering Plant iris using PCA
+
+**PROJECT18.** Movie Recommendation System using SVD
+
 ---
 
 ## 📇 Author
