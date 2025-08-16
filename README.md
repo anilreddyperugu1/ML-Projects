@@ -53,6 +53,8 @@ Feel free to explore, clone, and use the code and datasets for your own learning
 
 **PROJECT18.** Movie Recommendation System using SVD
 
+**PROJECT19.** Market Basket Analysis using APRIORI
+
 ---
 
 ## 📇 Author
