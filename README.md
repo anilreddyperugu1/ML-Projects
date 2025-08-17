@@ -55,6 +55,8 @@ Feel free to explore, clone, and use the code and datasets for your own learning
 
 **PROJECT19.** Market Basket Analysis using APRIORI
 
+**PROJECT20.** Market Basket Analysis using ECLAT(diff dataset)
+
 ---
 
 ## 📇 Author
