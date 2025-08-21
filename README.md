@@ -29,6 +29,7 @@ This repository contains a collection of **fundamental-to-advanced Machine Learn
 - 🛒**PROJECT19.** Market Basket Analysis using APRIORI
 - 🧺**PROJECT20.** Market Basket Analysis using ECLAT(diff dataset)
 - 📺**PROJECT21.** Ads Recommendation using Reinforcement Learning
+- 🛫**PROJECT22.** Airline Tweets Sentiment Analysis using NLP & Random Forest
   
 
 > ⚡ Each project is structured with **data preprocessing, model building, evaluation metrics, and key takeaways**, making this repository a **go-to reference for ML workflows**.  
